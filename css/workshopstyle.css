@@ -1,0 +1,166 @@
+h3{font-size: 30px;
+color: white;
+text-transform: uppercase;
+font-family: 'Open Sans', sans-serif;
+padding-top: 20px;
+padding-bottom: 20px;
+display: inline-block;
+font-weight: bold;
+}
+
+h1{
+	font-size: 55px;
+	color: white;
+	text-transform: uppercase;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	padding-top: 10px;
+}
+
+h2{ text-align: center;
+	font-size: 40px;
+	color: black;
+	text-transform: uppercase;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: bold;
+	padding-top: 40px;
+	padding-bottom: 20px;
+ }
+p{ color:white; 
+   font-size: 20px;
+   font-family: 'Open Sans', sans-serif;
+	padding-top: 10px;}
+
+.navegador{background: #233141 none repeat scroll 0 0;
+}
+
+.contenedor { max-width: 1200px;
+			margin: auto}
+
+.lista{text-align: right;
+			list-style: none;
+			float: right;
+			margin-top: 25px;
+			margin-bottom: 25px;
+			word-spacing: 20px;}
+
+.lista li{display: inline-block;
+padding-top:-11px;}
+
+.lista li a{text-decoration: none;
+				outline: none;
+				text-transform: uppercase;
+				color: white;
+				font-family: 'Open Sans', sans-serif;
+			    font-weight: bold;}
+
+.header{background-color: #00bd9d;
+		height: 528px;
+		text-align: center;
+}
+.imagen{
+	width: 200px;
+	height: 200px;
+	padding-top:100px;}
+
+
+.portfolio li {width: 33.1%;
+    display: inline-block;
+    padding: 10px;
+    box-sizing: border-box;
+}
+
+.img{
+	width: 100%;
+
+}
+
+.posicioncajas{
+	margin-left: -10px;
+    margin-right: -10px;
+    position: relative;
+}
+
+.ion{position: absolute;
+	color: white;
+	background-color: #00bd9d; 
+	width: 382px;
+	height: 279px;
+	text-align: center;
+	font-size: 56px;
+	box-sizing: border-box;
+    border: none;
+    padding-top: 110px;
+    opacity: 0.5;
+}
+
+.ion:hover{
+	width:0%;
+	bottom: 0%;
+	transition: 0.5s;
+}
+
+
+.parrafo p{font-family: 'Open Sans', sans-serif;
+  text-align: left;
+
+}
+.about h2 {
+	color: white;
+}
+.about{	background-color: #00bd9d;
+		height: 450px;
+		text-align: center;
+
+}
+
+.parrafos{
+	max-width: 70%;
+	margin: auto;
+
+}
+.parrafo{ display: inline-block;
+	width: 40%;
+	text-align: center;
+	padding-left:6%;
+	
+}
+
+.parrafo .iz{
+	float: left;
+	
+}
+
+.parrafo .de{
+	float: right;
+
+}
+
+
+input {
+	width: 60%;
+	float: left;
+	margin-top: 20px;
+	margin-left: 225px;
+	padding: 20px;
+}
+
+.mensaje{
+	height: 150px;
+}
+
+.contacto{
+	height: 720px;
+}
+
+.boton{
+	clear: both;
+	width: 8%;
+	color: white;
+	background-color: #00c09c;
+	border-radius: 20%
+}
+
+.ubicacion {background-color: #2b3e4f;
+		height: 260px;
+		}
